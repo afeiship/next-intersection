@@ -41,6 +41,9 @@ const res = nx.intersection(a1, a2, (_, value) => {
 // [ { id: 3, value: 'cc' } ]
 ```
 
+## resources
+- https://stackoverflow.com/questions/1885557/simplest-code-for-array-intersection-in-javascript
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-intersection/blob/master/LICENSE.txt).
 

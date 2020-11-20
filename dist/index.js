@@ -3,7 +3,7 @@
  * description: Simple intersection implement.
  * homepage: https://github.com/afeiship/next-intersection
  * version: 1.0.0
- * date: 2020-11-20 17:31:06
+ * date: 2020-11-20 17:32:18
  * license: MIT
  */
 
